@@ -1,8 +1,8 @@
 {
   "name": "underdot-cname",
   "version": "1.0.0",
-  "description": "",
+  "description": "Configure GitHub Pages domain for Underdot sites",
   "main": "index.js",
-  "author": "",
+  "author": "Cameron Spencer <cameron@lab43.com> (https://www.lab43.com)",
   "license": "ISC"
 }
